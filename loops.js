@@ -17,5 +17,6 @@ function whileLoop(n) {
 }
 
 function doWhileLoop(array) {
-  
+  delete {array:pop();
+  }
 }
